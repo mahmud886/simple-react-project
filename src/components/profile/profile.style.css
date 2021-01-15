@@ -1,0 +1,64 @@
+.container {
+	width: 50%;
+	margin: 50px auto;
+	background: white;
+	margin-top: 30px;
+	padding: 30px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+}
+
+.bio {
+	text-align: center;
+	margin: 30px;
+}
+.bio h3 {
+	font-size: 30px;
+}
+.bio p {
+	font-size: 24px;
+}
+
+.skills {
+	margin-bottom: 30px;
+}
+.skills h3 {
+	font-size: 25px;
+}
+
+.skills ul {
+	list-style-type: none;
+}
+.skills ul li {
+	display: inline-block;
+	background: #efefef;
+	padding: 5px 15px;
+	margin-right: 20px;
+	border-radius: 5px;
+}
+.skills ul li a {
+	text-decoration: none;
+	color: black;
+	font-weight: normal;
+}
+.links {
+	margin-bottom: 30px;
+}
+.links ul {
+	list-style-type: none;
+}
+
+.links ul li {
+	display: inline-block;
+	background: #efefef;
+	padding: 5px 15px;
+	margin-right: 20px;
+}
+.links ul li a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+.links ul li a:hover {
+	color: blue;
+}
